@@ -1,0 +1,28 @@
+﻿Build started 11/2/2015 5:17:12 PM.
+     1>Project "C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\HW6\HW6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Account.cpp Person.cpp
+         Person.cpp
+         Account.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp
+         Client.cpp
+     1>c:\users\cjken\dropbox\documents\school\algorithms and data structures\hw6\hw6\client.cpp(13): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\cjken\dropbox\documents\school\algorithms and data structures\hw6\hw6\client.cpp(19): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\cjken\dropbox\documents\school\algorithms and data structures\hw6\hw6\client.cpp(37): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\Debug\HW6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\Debug\HW6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\Debug\HW6.lib" /MACHINE:X86 Debug\Account.obj
+         Debug\Address.obj
+         Debug\Bank.obj
+         Debug\Employee.obj
+         Debug\FullTimeEmployee.obj
+         Debug\HourlyEmployee.obj
+         Debug\Main.obj
+         Debug\Person.obj
+         Debug\Client.obj
+         HW6.vcxproj -> C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\Debug\HW6.exe
+     1>Done Building Project "C:\Users\cjken\Dropbox\Documents\School\Algorithms and Data Structures\HW6\HW6\HW6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.44
